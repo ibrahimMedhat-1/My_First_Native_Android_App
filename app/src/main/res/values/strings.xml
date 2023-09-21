@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My_First_Native_App</string>
+    <string name="welcome_message">Welcome To Android Native</string>
+    <string name="from_message">Dev By / Ibrahim Medhat</string>
+    <string name="email">Ibrahimmedhat112@gmail.com</string>
+</resources>
